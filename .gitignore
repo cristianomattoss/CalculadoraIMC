@@ -1,0 +1,23 @@
+# Arquivos de projeto IDE
+.idea/
+*.iml
+*.iws
+
+# Arquivos locais e específicos da máquina
+local.properties
+.DS_Store
+
+# Caches e builds
+.gradle/
+build/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Arquivos específicos do Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
