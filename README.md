@@ -47,8 +47,8 @@ Navegação entre Activities com Intents
     <th>Resultado</th>
   </tr>
   <tr>
-    <td><img src="tela_principal.png" width="300"/></td>
-    <td><img src="resultado.png" width="300"/></td>
+  <td><img src="screenshots/tela_principal.png" width="300"/></td>
+    <td><img src="screenshots/resultado.png" width="300"/></td>
   </tr>
 </table>  
 
